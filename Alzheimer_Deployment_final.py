@@ -11,7 +11,7 @@ from catboost import CatBoostClassifier
 def load_model():
     model = CatBoostClassifier()
     # Ensure this path is correct for your machine
-    model.load_model(r"C:\Users\USER\Desktop\ALZHEMEIR MODEL\Alzheimer_model.cbm") 
+   model.load_model("Alzheimer_model.cbm") 
     return model
 
 model = load_model()
@@ -177,4 +177,5 @@ if st.button("Predict"):
         st.pyplot(fig)
         
     except Exception as e:
+
         st.error(f"An error occurred during prediction: {e}")
