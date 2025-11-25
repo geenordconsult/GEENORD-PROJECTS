@@ -4,3 +4,4 @@ matplotlib
 seaborn
 catboost
 standardscaler
+joblib
