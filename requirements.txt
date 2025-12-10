@@ -2,6 +2,6 @@ streamlit
 pandas
 matplotlib
 seaborn
-catboost
+kmeans
 standardscaler
 joblib
