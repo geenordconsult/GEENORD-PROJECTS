@@ -1,4 +1,4 @@
-**Customer Segmentation Using Unsupervised Learning**
+#**Customer Segmentation Using Unsupervised Learning**
 
 Overview
 
@@ -78,4 +78,7 @@ Building an interactive dashboard for cluster visualization
 
 **Author**
 
-Michael Mabayomije Jinadu (Geenord Consult Tech Solutions)
+**Michael Jinadu (Geenord Consult Tech Solutions)**
+  B.Eng. Computer Engineering
+- Focus: AI Solutions for Healthcare Challenges
+- Expertise: Machine Learning, Data Science, Clinical Analytics
