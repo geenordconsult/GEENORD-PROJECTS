@@ -79,6 +79,7 @@ rapid agricultural recommendations are required
 Understanding the predictive strength of individual soil attributes can help guide simplified decision-support tools for agriculture.
 
 **AUTHOR**
+
 B.Eng. Computer Engineering
 - Focus: AI Solutions for Healthcare Challenges
 - Expertise: Machine Learning, Data Science, Clinical Analytics
