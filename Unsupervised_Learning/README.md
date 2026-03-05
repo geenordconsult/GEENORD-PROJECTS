@@ -14,7 +14,7 @@ Identify natural groupings among customers
 Apply clustering techniques to segment customers based on key attributes
 Visualize and interpret the resulting clusters
 
-**Dataset**
+**Dataset**:
 The dataset used in this project contains customer information such as:
 Customer ID
 Age
