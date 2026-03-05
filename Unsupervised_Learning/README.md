@@ -1,4 +1,5 @@
 **Customer Segmentation Using Unsupervised Learning**
+
 Overview
 
 This project applies unsupervised machine learning techniques to group customers based on similarities in their behavior and spending patterns. The goal is to identify meaningful customer segments that can help businesses better understand their customers and make informed marketing decisions.
