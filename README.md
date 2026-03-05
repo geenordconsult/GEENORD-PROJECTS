@@ -145,7 +145,7 @@ This dataset is **synthetic and generated for educational purposes**. It is idea
 
 ## Author
 
-**GEENORD Consulting**
+**Michael Jinadu (Geenord Consult tech Solutions)**
 - Focus: AI Solutions for Healthcare Challenges
 - Expertise: Machine Learning, Data Science, Clinical Analytics
 
