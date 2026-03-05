@@ -7,7 +7,6 @@ The work included here reflects hands-on experience in areas such as data analys
 **AUTHOR**
 
 **Michael Jinadu (Geenord Consult Tech Solutions)**
-
   B.Eng. Computer Engineering
 - Focus: AI Solutions for Healthcare Challenges
 - Expertise: Machine Learning, Data Science, Clinical Analytics
