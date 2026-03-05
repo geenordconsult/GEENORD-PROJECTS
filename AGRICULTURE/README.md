@@ -18,9 +18,13 @@ Dataset size
 **Feature	Description**
 
 N	Nitrogen content in the soil
+
 P	Phosphorus content in the soil
+
 K	Potassium content in the soil
+
 ph	Soil acidity or alkalinity
+
 crop = Crop type associated with the soil condition
 
 The crop column represents the target variable used for classification.
