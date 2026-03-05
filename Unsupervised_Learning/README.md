@@ -45,6 +45,7 @@ The K-Means clustering algorithm was used to group customers into distinct segme
 The clusters were visualized using scatter plots to clearly show how customers are grouped according to income and spending behavior.
 
 **Technologies Used**
+
 Python
 Pandas
 NumPy
@@ -54,6 +55,7 @@ Seaborn
 Jupyter Notebook
 
 **Results**
+
 The clustering model successfully grouped customers into several distinct segments. Each cluster represents a different category of customers based on income levels and spending habits.
 
 These segments can help businesses:
@@ -63,14 +65,17 @@ Develop targeted marketing strategies
 Improve customer relationship management
 
 **Project Structure**
-Unsupervised_Learning/
+
+This Project is an Unsupervised_Learning task.
 
 
 **Future Improvements**
+
 Possible improvements to this project include:
 Applying other clustering algorithms such as DBSCAN or Hierarchical Clustering
 Incorporating more customer behavioral features
 Building an interactive dashboard for cluster visualization
 
 **Author**
+
 Michael Mabayomije Jinadu (Geenord Consult Tech Solutions)
